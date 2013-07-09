@@ -1,0 +1,10 @@
+package com.example.jwwapp2.tool;
+
+public enum TaskResult {
+	LOGIN_SUCCESS ,
+    LOGIN_USERNAME_NOT_EXSIT ,
+    LOGIN_PASSWORD_INCORRECT ,
+    LOGIN_CHECKCODE_INCORRECT ,
+    LOGIN_SERVER_INTERNAL_ERROR ,
+    LOGIN_NETWORK_ERROR 
+}

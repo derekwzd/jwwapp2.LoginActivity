@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+	android:id="@+id/linear1" 
+	android:layout_width="fill_parent" 
+	xmlns:android="http://schemas.android.com/apk/res/android" 
+	android:layout_height="wrap_content" 
+	android:paddingBottom="4dip" 
+	android:paddingLeft="12dip"
+	android:paddingRight="12dip">
+	
+<TextView
+    android:id="@+id/names2"
+    android:layout_width="63dip"
+    android:layout_height="wrap_content"
+    android:text="names"
+    android:textColor="#000000"
+    android:textSize="15dip" />
+
+<TextView
+    android:id="@+id/grades2"
+    android:layout_width="25dip"
+    android:layout_height="wrap_content"
+    android:text="scores"
+    android:textColor="#000000"
+    android:textSize="15dip" />
+<TextView
+    android:id="@+id/seasons"
+    android:layout_width="20dip"
+    android:layout_height="wrap_content"
+    android:text="scores"
+    android:textColor="#000000"
+    android:textSize="15dip" />
+
+<TextView
+    android:id="@+id/times"
+    android:layout_width="115dip"
+    android:layout_height="wrap_content"
+    android:text="scores"
+    android:textColor="#000000"
+    android:textSize="15dip" />
+<TextView
+    android:id="@+id/rooms"
+    android:layout_width="56dip"
+    android:layout_height="wrap_content"
+    android:text="names"
+    android:textColor="#000000"
+    android:textSize="15dip" />
+<TextView
+    android:id="@+id/positions"
+    android:layout_width="25dip"
+    android:layout_height="wrap_content"
+    android:text="names"
+    android:textColor="#000000"
+    android:textSize="16dip" />
+</LinearLayout>
